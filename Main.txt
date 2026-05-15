@@ -1,9 +1,3 @@
-/*
-Aluno - a22505982
-Nome - Gabriel Elias Ferreira dos Santos
-
-*/
-
 package TPC;
 
 public class Main {
